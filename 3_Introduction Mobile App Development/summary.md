@@ -20,7 +20,7 @@
 ### Task
 
 Kumpulkan 5 bahasa pemograman untuk membuat aplikasi mobile! Sertakan platform dari aplikasi yang dihasilkan (contoh pada desktop: C# untuk windows)
-Jawab :
+##### Jawab :
 1.	Native Java : Android
 2.	Kotlin : Android
 3.	Dart Flutter : Android/iOS
@@ -28,12 +28,12 @@ Jawab :
 5.	Javasripct (React Native) : Android/iOS
 
 Kumpulkan 3 aplikasi yang dapat berjalan di iOS tetapi tidak di android, juga 3 aplikasi yang dapat berjalan di android tetapi tidak di iOS!
-Jawab :
-Aplikasi iOS :
-* iMovie
-* Halide
-* Safari browser
-Aplikasi Android :
-* DroidLock
-* Opera Max
-* Light Flow
+##### Jawab :
+#### Aplikasi iOS :
+   * iMovie
+   * Halide
+   * Safari browser
+#### Aplikasi Android :
+   * DroidLock
+   * Opera Max
+   * Light Flow
