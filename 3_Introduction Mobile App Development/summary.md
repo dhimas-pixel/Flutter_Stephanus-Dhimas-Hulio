@@ -30,10 +30,10 @@ Jawab :
 Kumpulkan 3 aplikasi yang dapat berjalan di iOS tetapi tidak di android, juga 3 aplikasi yang dapat berjalan di android tetapi tidak di iOS!
 Jawab :
 Aplikasi iOS :
-•	iMovie
-•	Halide
-•	Safari browser
+* iMovie
+* Halide
+* Safari browser
 Aplikasi Android :
-•	DroidLock
-•	Opera Max
-•	Light Flow
+* DroidLock
+* Opera Max
+* Light Flow
