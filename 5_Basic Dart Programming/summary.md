@@ -54,3 +54,13 @@ Menyimpan data secara berbaris, tiap data memiliki index
 Map
 Menyimpan data secara key-value
 Key berguna selayaknya index pada list
+
+# Task
+
+### Membuat Codingan rumus lingkaran dan menggabungkan 3 string menjadi 1
+
+#### Source Code
+![Source Code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/5_Basic%20Dart%20Programming/Screenshots/Source%20Code.png)
+
+#### Output
+![Output](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/5_Basic%20Dart%20Programming/Screenshots/Output.PNG)
