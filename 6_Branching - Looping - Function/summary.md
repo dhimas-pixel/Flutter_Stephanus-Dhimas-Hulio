@@ -47,3 +47,21 @@ Cara lain menghentikan perulangan
 
 #### Fungsi
 Kumpulan kode yang dapat digunakan ulang
+
+# Task
+
+Soal 1
+
+![Source Code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/6_Branching%20-%20Looping%20-%20Function/Screenshots/1.PNG)
+
+Output
+
+![Output](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/6_Branching%20-%20Looping%20-%20Function/Screenshots/2.PNG)
+
+Soal 2
+
+![Source Code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/6_Branching%20-%20Looping%20-%20Function/Screenshots/3.PNG)
+
+Output
+
+![Source Code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/6_Branching%20-%20Looping%20-%20Function/Screenshots/4.PNG)
