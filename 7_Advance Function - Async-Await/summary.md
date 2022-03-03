@@ -29,3 +29,17 @@ Menyimpan data secara berbaris, tiap data memiliki index
 Map
 Menyimpan data secara key-value
 Key berguna selayaknya index pada list
+
+# Task
+
+### Soal 1
+![Soal 1](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/7_Advance%20Function%20-%20Async-Await/Screenshots/soal%201.PNG)
+
+Jawab :
+![Jawab 1](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/7_Advance%20Function%20-%20Async-Await/Screenshots/jawab%201.PNG)
+
+### Soal 2
+![Soal 2](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/7_Advance%20Function%20-%20Async-Await/Screenshots/soal%202.PNG)
+
+Jawab :
+![Jawab 2](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/7_Advance%20Function%20-%20Async-Await/Screenshots/jawab%202.PNG)
