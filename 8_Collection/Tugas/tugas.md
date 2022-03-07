@@ -66,7 +66,7 @@ yang A
 ![image](https://user-images.githubusercontent.com/76719135/157014372-e89fd9bf-a5fe-42da-a7de-1cbbb1a3b08a.png)
 
 ## 21
-int, string, bool
+dinamis
 
 ## 22
 ![image](https://user-images.githubusercontent.com/76719135/157014757-bfc86e28-c1c8-4ed5-93b8-0d0d53a7c50a.png)
