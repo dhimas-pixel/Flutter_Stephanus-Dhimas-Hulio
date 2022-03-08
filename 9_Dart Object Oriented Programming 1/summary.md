@@ -47,3 +47,14 @@ Seperti fungsi tetapi terletak dalam sebuah class
 
 #### Mengakses Method
 Seperti menggunakan fungsi tetapi melalui sebuah object
+
+# Task
+
+### Source Code
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Screenshots/main.PNG)
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Screenshots/class.PNG)
+
+### Output
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Screenshots/jawab%201.PNG)
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Screenshots/jawab%202.PNG)
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Screenshots/jawab%203.PNG)
