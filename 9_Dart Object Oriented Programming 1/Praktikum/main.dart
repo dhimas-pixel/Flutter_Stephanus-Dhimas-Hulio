@@ -25,6 +25,7 @@ void main(List<String> arguments) {
       break;
     }
   }
+  print(mobil.muatan.toString());
 }
 
 // Class Hewan
