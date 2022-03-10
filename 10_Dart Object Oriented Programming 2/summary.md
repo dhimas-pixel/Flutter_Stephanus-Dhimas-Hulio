@@ -63,5 +63,19 @@ deskripsi :
 * Memberi kemampuan agar dapat menerima data dengan tipe yang berbeda
 * Tipe data yang diinginkan, ditentukan saat membuat class atau menjalankan fungsi
 
+# Task
 
+# Soal 1
+### Class BangunRuang
+![Soal1](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshots/soal%201.PNG)
 
+### Class Matematika
+![Soal2](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshots/soal%202.PNG)
+![Soal2](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshots/soal%202%20(2).PNG)
+
+### Main
+![main](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshots/main.PNG)
+![main](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshots/main%20(2).PNG)
+
+### Output
+![output](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshots/Output.PNG)
