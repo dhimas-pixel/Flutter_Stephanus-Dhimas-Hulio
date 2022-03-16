@@ -56,3 +56,16 @@ Membentuk application bar yang terletak pada bagian atas halaman
 
 #### Text
 Menampilkan teks
+
+# Task
+
+### Source Code
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/11_Introduction%20Flutter%20Widget/Screenshots/jawab%201.PNG)
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/11_Introduction%20Flutter%20Widget/Screenshots/jawab%202.PNG)
+![source_code](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/11_Introduction%20Flutter%20Widget/Screenshots/jawab%203.PNG)
+
+### Output
+![output](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/11_Introduction%20Flutter%20Widget/Screenshots/Output.jpg)
+
+Demo
+![demo](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/11_Introduction%20Flutter%20Widget/Screenshots/Demo.mp4)
