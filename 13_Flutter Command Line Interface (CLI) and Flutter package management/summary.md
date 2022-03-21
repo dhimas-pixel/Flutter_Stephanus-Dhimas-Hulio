@@ -35,3 +35,25 @@ Cara menambah packages :
 * Import package di file dart agar bisa digunakan 
 * Stop atau restart aplikasi jika dibutuhkan
 
+# Task
+### Source Code
+Pertama saya membuat kelas MyApp sebagain main nya
+dan memakai button tab yang berfungsi untuk memanggil page lain
+* ![1](https://user-images.githubusercontent.com/76719135/159219834-c40aac05-6fe0-45a1-a2fa-96c8d47be2a4.PNG)
+* ![2](https://user-images.githubusercontent.com/76719135/159219843-03e0d66f-cb56-4079-a001-814cb7607d91.PNG)
+
+Kelas BadgePage yang berisi task 1
+* ![3](https://user-images.githubusercontent.com/76719135/159219877-18757991-aec5-4b3d-9676-56f490423b87.PNG)
+
+Kelas ScanPage yang berisi task 2
+* ![4](https://user-images.githubusercontent.com/76719135/159219900-8c93e1f7-a907-4575-a182-c5d1e36b76f2.PNG)
+
+### Output
+Task 1
+* ![Output 1](https://user-images.githubusercontent.com/76719135/159219996-2a38ebe9-a809-4399-9e7a-b6eed285fc3c.jpg)
+
+Task 2
+* ![Output 2](https://user-images.githubusercontent.com/76719135/159220011-7da26ab6-2fec-460c-b799-af9c4466ed48.jpg)
+
+### Demo
+![Demo](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/13_Flutter%20Command%20Line%20Interface%20(CLI)%20and%20Flutter%20package%20management/Screenshots/Demo.mp4)
