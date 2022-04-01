@@ -25,3 +25,16 @@
 * Tiap route adalah fungsi yang membentuk halaman
 
 # Task
+
+### Source Code
+
+#### Jadi saya menggunakan navigator push biasa di iconButton dan Navigator pushNamed di floating button
+* ![1](https://user-images.githubusercontent.com/76719135/161207439-84705ca1-f92f-4008-b869-b2a5d0bf389a.PNG)
+* ![2](https://user-images.githubusercontent.com/76719135/161207449-5b5ae5b5-2fff-4717-9c0e-2dbab34bf4a0.PNG)
+
+### Output
+* ![Output 1](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/19_Flutter%20Navigation/Screenshots/Output%201.jpg)
+* ![Output 2](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/19_Flutter%20Navigation/Screenshots/Output%202.jpg)
+
+### Demo
+![Demo](https://github.com/dhimas-pixel/Flutter_Stephanus-Dhimas-Hulio/blob/main/19_Flutter%20Navigation/Screenshots/Demo.mp4)
