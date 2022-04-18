@@ -25,3 +25,12 @@
 * Body = data yang disertakan bersama response
 
 # Task
+### Source Code
+
+### Get dan Post API
+* ![api1](https://user-images.githubusercontent.com/76719135/163753178-19700085-0a67-467d-ab64-6b939c3d6974.PNG)
+* ![api2](https://user-images.githubusercontent.com/76719135/163753183-9873d167-e9a9-4500-92ba-cec50c75fec3.PNG)
+
+### Dipanggil melalui provider
+* ![provider1](https://user-images.githubusercontent.com/76719135/163753208-2c1ac56f-82cf-4203-8249-82f1bb45881a.PNG)
+
