@@ -18,6 +18,8 @@ class DetailContacts with ChangeNotifier {
   ContactsModel get getByID => contactsModel;
 
   Future setContactsID(int id) async {
+    setIsProcessing(true);
+    notifyListeners();
     contactsModel = await contactsRepo.getContactsById(id);
     setIsProcessing(false);
     notifyListeners();
