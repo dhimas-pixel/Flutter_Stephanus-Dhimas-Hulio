@@ -8,10 +8,10 @@ part of 'food_model.dart';
 
 FoodModel _$FoodModelFromJson(Map<String, dynamic> json) => FoodModel(
       id: json['id'] as int,
-      nameFood: json['nameFood'] as String,
+      nameFood: json['name'] as String,
     );
 
 Map<String, dynamic> _$FoodModelToJson(FoodModel instance) => <String, dynamic>{
       'id': instance.id,
-      'nameFood': instance.nameFood,
+      'name': instance.nameFood,
     };
